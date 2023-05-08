@@ -1,4 +1,4 @@
-
+<img src="https://github.com/AFrancisca/AFrancisca/blob/main/UIUX%20DESIGNER%20WEB%20DESIGNER.png" alt="logo">
 <h2 align="center" style="animation-name: slidein; animation-duration: 2s; animation-fill-mode: forwards;">
   Welcome to my account
 </h2>
