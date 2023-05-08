@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AKANYANGE ALLIANCE</h1>
-<img align="center" alt="coding" width="500" src= "https://giphy.com/gifs/IntoAction-S5zfv3JMXKcJHgMUrA">
+<img align="center" alt="coding" width="500" src="![coding](https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif)">
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrancisca&label=Profile%20views&color=0e75b6&style=flat" alt="afrancisca" /> </p>
