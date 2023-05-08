@@ -1,9 +1,5 @@
 <img src="https://github.com/AFrancisca/AFrancisca/blob/main/UIUX%20DESIGNER%20WEB%20DESIGNER.png" alt="logo">
-<h2 align="center" style="animation-name: slidein; animation-duration: 2s; animation-fill-mode: forwards;">
-  Welcome to my account
-</h2>
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrancisca&label=Profile%20views&color=0e75b6&style=flat" alt="afrancisca" /> </p>
 
