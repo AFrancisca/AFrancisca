@@ -1,5 +1,4 @@
-![logo](https://github.com/AFrancisca/AFrancisca/blob/main/README.md)
-
+<img src="https://github.com/AFrancisca/AFrancisca/blob/main/Web%20Designer.png" alt="logo" style="width: 1800px;">
 <h2 align="center" style="animation-name: slidein; animation-duration: 2s; animation-fill-mode: forwards;">
   Welcome to my account
 </h2>
