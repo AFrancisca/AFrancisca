@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **React, Redux and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/Franciscaalliance](https://www.behance.net/Franciscaalliance)
+- 👨‍💻 All of my design projects are available at [https://www.behance.net/Franciscaalliance](https://www.behance.net/Franciscaalliance)
+- otherwise, others are here on my repository
 
 - 💬 Ask me about **javaScript, UI/UX**
 
