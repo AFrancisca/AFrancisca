@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrancisca&label=Profile%20views&color=0e75b6&style=flat" alt="afrancisca" /> </p>
 
-- 🔭 I’m currently working on **Designs**
-
-- 🌱 I’m currently learning **React, Redux and Typescript**
+- 🔭 I am a Web Designer and a Software Developer
 
 - 👨‍💻 All of my design projects are available at [https://www.behance.net/Franciscaalliance](https://www.behance.net/Franciscaalliance)
 - otherwise, others are here on my repository
-
-- 💬 Ask me about **javaScript, UI/UX**
-
 - 📫 How to reach me **ciscaalliance@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
